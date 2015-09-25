@@ -1,0 +1,5 @@
+# Unity-MissileMoveSample
+MissileMoveSample
+Unityでミサイルの動きのサンプルとして作成。
+StandardAssetsのUtilitiesとParticleSystemをImportしてください。
+実行して、マウス左クリックでミサイル発射です。
